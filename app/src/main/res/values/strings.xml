@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="button_Login_activity_mainXML">Login</string>
+    <string name="button_Register_activity_mainXML">Register</string>
+    <string name="textView_LoginToContinue">Login To Continue</string>
+    <string name="hint">Hint</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="enter_the_details">Enter The Details</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="Continue">Continue</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">Logout</string>
+</resources>

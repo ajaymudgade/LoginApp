@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981594299853",
+    "project_id": "loginapp-f194d",
+    "storage_bucket": "loginapp-f194d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981594299853:android:d8f7b18b828e4c64a5f884",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981594299853-vc4j69gjjt6pdgg74qq3l7obv46ubcpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "875d4d136310c674397806efa0a818f3b4312dda"
+          }
+        },
+        {
+          "client_id": "981594299853-cs4gltlrau0dqmfrlhkjrst9kqi616am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxVTD9gVDPkwpMvSVI76oT_5wdU3bbb08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981594299853-cs4gltlrau0dqmfrlhkjrst9kqi616am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
